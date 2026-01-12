@@ -49,7 +49,7 @@ const projects = [
   src: "house.jpg",
   link: project4,
   color: "#ed649e",
-  githubLink: "https://github.com/karan4065/Handwritten-Digit-Recognition",
+  githubLink: "https://github.com/karan4065/HandDigit",
   liveLink: "https://handdigitrecognition.netlify.app/"
 }
 
