@@ -50,7 +50,7 @@ const projects = [
   link: project4,
   color: "#ed649e",
   githubLink: "https://github.com/karan4065/Handwritten-Digit-Recognition",
-  liveLink: "https://handwritten-digit-recognition-4.onrender.com"
+  liveLink: "https://handdigitrecognition.netlify.app/"
 }
 
 ];
