@@ -39,7 +39,7 @@ const GridBackground = () => {
 };
 
 const handleResumeDownload = () => {
-  const resumeUrl = "https://drive.google.com/file/d/10nARDrGYvOZeRR0LoJKgXKQkPczqn-h7/view?usp=drive_link";
+  const resumeUrl = "https://drive.google.com/file/d/1mmh1Vrl2SeJGmoLruMlgz3M8uwGnfocu/view?usp=sharing";
 
   const link = document.createElement("a");
   link.href = resumeUrl;
