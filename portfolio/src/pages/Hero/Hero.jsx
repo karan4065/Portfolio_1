@@ -39,7 +39,7 @@ const GridBackground = () => {
 };
 
 const handleResumeDownload = () => {
-  const resumeUrl = "https://drive.google.com/file/d/1mmh1Vrl2SeJGmoLruMlgz3M8uwGnfocu/view?usp=sharing";
+  const resumeUrl = "https://rough-waterfall-945.linkyhost.com";
 
   const link = document.createElement("a");
   link.href = resumeUrl;
