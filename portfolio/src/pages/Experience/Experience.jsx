@@ -55,8 +55,8 @@ const ExperienceSection = () => {
   const experiences = [
     {
       icon: Layers,
-      title: "Web Dev Intern",
-      company: "Unified Mentor Pvt. Ltd.",
+      title: "Web Dev and ML Intern",
+      company: "Unified Mentor",
       period: "June 24 - July 24",
       description:
         "A subscription-based SaaS product built to solve real-world problems through efficient and intuitive design.",
@@ -71,7 +71,7 @@ const ExperienceSection = () => {
     },
     {
       icon: Code2,
-      title: "Full stack ML Dev",
+      title: "Full stack Dev",
       company: "TPDC Cell - SVPCET",
       period: "Nov 25 - Present",
       description:
